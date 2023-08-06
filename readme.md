@@ -32,10 +32,14 @@ This app is a simple gui app that allows you to convert images to webp format. I
 
 ![Screenshot 3](/screenshots/ImageOrImagesDragged.webp?raw=true "Screenshot 3")
 
+### Conversion Finished
+
+![Screenshot 4](/screenshots/ConversionFinished.webp?raw=true "Screenshot 4")
+
 ### Image Comparison
 
-![Screenshot 4](/screenshots/ImageComparison.webp?raw=true "Screenshot 4")
+![Screenshot 5](/screenshots/ImageComparison.webp?raw=true "Screenshot 5")
 
 ### Image Comparison Stats
 
-![Screenshot 5](/screenshots/ImageComparisonStats.webp?raw=true "Screenshot 5")
+![Screenshot 6](/screenshots/ImageComparisonStats.webp?raw=true "Screenshot 6")
